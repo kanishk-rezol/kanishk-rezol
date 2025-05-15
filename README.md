@@ -28,19 +28,6 @@
 
 ---
 
-🧰 **Tech Stack**
-
-```bash
-💻 Languages:        Python | Java | JavaScript | TypeScript | SQL | R
-🌐 Frontend:         React | React Native | Tailwind CSS | HTML/CSS
-🔧 Backend:          Node.js | Spring Boot | Express.js | WebSocket
-🛢️ Database:        MongoDB | Firebase | MySQL
-📊 Data Tools:       Power BI | Excel | pandas | NumPy
-🎨 Tools & Design:   Figma | Spline | Adobe Illustrator
-🧪 Dev Tools:        Git | VS Code | Postman | Netlify | Vercel
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ _kanishk_._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kanishk P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kanishkpalanisamy002@gmail.com) 
 
