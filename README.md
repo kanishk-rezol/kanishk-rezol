@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
-<h3 align="center">
+<h3 align="left">
   I am a passionate software developer and aspiring data analyst with a strong foundation in building modern web and mobile applications. <br />
   I enjoy using data-driven solutions to solve real-world problems and continuously strive to improve my technical skills. <br />
   With hands-on experience in tools like React, Python, Power BI, and SQL, I bring a versatile and curious mindset to every project I work on. <br />
