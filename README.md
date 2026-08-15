@@ -1,22 +1,22 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=陽炎%20KANISHK%20P&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer%20%7C%20Building%20systems%20that%20never%20sleep&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=KANISHK%20P&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00ADB5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%22A+goal+without+a+plan+is+just+a+wish.%22+-+Levi;Compiling+dreams+into+distributed+systems...;Backend+Engineer+%40+Stitch+%7C+AppDev+%40+HAWC" alt="Typing SVG" />
+  <sub><i>"A goal without a plan is just a wish." — Levi Ackerman</i></sub>
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/kanishk-p-185256287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-  <a href="mailto:kanishkpalanisamy002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
-  <a href="https://kanishkpalanisamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" /></a>
+  <a href="https://linkedin.com/in/kanishk-p-185256287">LinkedIn</a> •
+  <a href="mailto:kanishkpalanisamy002@gmail.com">Email</a> •
+  <a href="https://kanishkpalanisamy.vercel.app">Portfolio</a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+---
 
 ## 🍥 About This Arc
 
@@ -37,35 +37,20 @@ motto: "Build it robust, build it scalable, ship it clean."
 
 <br/>
 
-## ⚔️ Tech Arsenal
+## ⚔️ Breathing Styles (Tech Arsenal)
 
-<div align="center">
+Every Hashira has a breathing style. Here's mine:
 
-**Languages & Runtimes**
-<br/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-**Backend & Frameworks**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Kratos-00ADB5?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/LiveKit-FF3E00?style=for-the-badge&logo=webrtc&logoColor=white" />
-
-**Data & AI**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-
-</div>
+| Style | Techniques |
+|---|---|
+| 🌊 **Water Breathing** | Go, Python, TypeScript — flows into whatever the problem needs |
+| 🔥 **Flame Breathing** | FastAPI, Kratos, WebSockets, LiveKit — fast, real-time, no wasted motion |
+| ⚡ **Thunder Breathing** | PostgreSQL, ClickHouse — data that moves at speed without breaking |
+| 🌙 **Mist Breathing** | RAG pipelines, Ollama, LLM workflows — finding signal in the fog |
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+---
 
 ## 📊 Power Level (GitHub Stats)
 
@@ -107,60 +92,25 @@ motto: "Build it robust, build it scalable, ship it clean."
 
 <div align="center">
   <br />
-  <a href="https://github.com/kanishk-rezol?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_VIEW_ALL_QUESTS-00ADB5?style=for-the-badge&logoColor=white" height="32" />
-  </a>
+  <a href="https://github.com/kanishk-rezol?tab=repositories">📂 View all repositories →</a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&label=PROFILE%20VIEWS&color=00ADB5&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&label=PROFILE%20VIEWS&color=00ADB5&style=flat" />
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+---
 
-## 🎮 Retro Save File
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/8.gif" height="110" alt="Pokemon" />
-        <br />
-        <b>WARTORTLE</b> | <code>No. 008</code><br />
-        <sub>HT: 3'03" | WT: 50.0 lb</sub><br />
-        <p><i>"Swimming fast, it moves its ears to maintain balance."</i></p>
-      </td>
-      <td width="40%" align="center" valign="middle">
-        <table>
-          <tr>
-            <td></td>
-            <td align="center"><b>⬆️</b></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td align="center"><b>⬅️</b></td>
-            <td></td>
-            <td align="center"><b>➡️</b></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td align="center"><b>⬇️</b></td>
-            <td></td>
-          </tr>
-        </table>
-        <br />
-        <img src="https://img.shields.io/badge/B-222831?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/A-00ADB5?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
+## 🗡️ Corps Notes
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="snake animation" />
+
+> *"No matter how many people you may lose, you have no choice but to go on living."*
+> <sub>— Tanjiro Kamado, Demon Slayer: Kimetsu no Yaiba</sub>
+
 </div>
+
+Debugging is a lot like slaying demons — you don't win by brute force, you win by studying the pattern until you see exactly where to strike. Every bug fixed is one more Kizuki off the list. 🌸
 
 ---
 
