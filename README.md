@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=KANISHK%20P&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=KANISHK%20P&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20%26%20AI%20Engineer&amp;descAlignY=58&amp;descSize=18" width="100%" />
 
   <br/>
 
@@ -57,12 +57,12 @@ Every Hashira has a breathing style. Here's mine:
 <table align="center">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api?username=kanishk-rezol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=kanishk-rezol&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="100%" alt="GitHub Stats" />
       <br /><br />
-      <img src="https://streak-stats.demolab.com?user=kanishk-rezol&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=kanishk-rezol&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kanishk-rezol&layout=donut&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kanishk-rezol&amp;layout=donut&amp;theme=tokyonight&amp;hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -75,12 +75,12 @@ Every Hashira has a breathing style. Here's mine:
   <tr>
     <td width="50%">
       <a href="https://github.com/kanishk-rezol">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&repo=Auto-Job-Resume-Platform&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&amp;repo=Auto-Job-Resume-Platform&amp;theme=tokyonight&amp;hide_border=true" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/kanishk-rezol">
-        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&repo=PDF-RAG-Chatbot-with-Ollama&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&amp;repo=PDF-RAG-Chatbot-with-Ollama&amp;theme=tokyonight&amp;hide_border=true" width="100%" />
       </a>
     </td>
   </tr>
@@ -90,7 +90,7 @@ Every Hashira has a breathing style. Here's mine:
   <br />
   <a href="https://github.com/kanishk-rezol?tab=repositories">📂 View all repositories →</a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&label=PROFILE%20VIEWS&color=00ADB5&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&amp;label=PROFILE%20VIEWS&amp;color=00ADB5&amp;style=flat" />
 </div>
 
 <br/>
@@ -113,5 +113,5 @@ Debugging is a lot like slaying demons — you don't win by brute force, you win
 <div align="center">
   <sub>✨ Thanks for stopping by — may your builds be green and your merges conflict-free ✨</sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" />
 </div>
