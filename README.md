@@ -57,19 +57,15 @@ Every Hashira has a breathing style. Here's mine:
 <table align="center">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=kanishk-rezol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=kanishk-rezol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
       <br /><br />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=kanishk-rezol&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=kanishk-rezol&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-rezol&layout=donut&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kanishk-rezol&layout=donut&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishk-rezol&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</div>
 
 <br/>
 
@@ -79,12 +75,12 @@ Every Hashira has a breathing style. Here's mine:
   <tr>
     <td width="50%">
       <a href="https://github.com/kanishk-rezol">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk-rezol&repo=Auto-Job-Resume-Platform&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&repo=Auto-Job-Resume-Platform&theme=tokyonight&hide_border=true" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/kanishk-rezol">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk-rezol&repo=PDF-RAG-Chatbot-with-Ollama&theme=tokyonight&hide_border=true" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=kanishk-rezol&repo=PDF-RAG-Chatbot-with-Ollama&theme=tokyonight&hide_border=true" width="100%" />
       </a>
     </td>
   </tr>
