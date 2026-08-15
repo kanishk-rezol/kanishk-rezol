@@ -1,53 +1,34 @@
-<h1 align="center">Hi 👋, I'm Kanishk</h1>
-<h3 align="left">
-  I am a passionate software developer and aspiring data analyst with a strong foundation in building modern web and mobile applications. <br />
-  I enjoy using data-driven solutions to solve real-world problems and continuously strive to improve my technical skills. <br />
-  With hands-on experience in tools like React, Python, Power BI, and SQL, I bring a versatile and curious mindset to every project I work on. <br />
-  I’m currently seeking a full-time opportunity to grow and contribute in the fields of software development or data analytics.
-</h3>
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230a192f&custom_color_2=%2300ADB5&height=180&section=header&text=Kanishk%20P&fontSize=42&fontColor=%23ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanishk-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="kanishk-xyz" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Go+%7C+Python+%7C+FastAPI+%7C+Kratos;Microservices+%7C+LiveKit+%7C+WebSockets;RAG+Pipelines+%7C+PostgreSQL+%7C+ClickHouse" alt="Typing SVG" />
+  </a>
 
----
+  <p align="center">
+    <a href="https://kanishkpalanisamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/kanishk-p-185256287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:kanishkpalanisamy002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-🌟 **About Me**
+  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&label=Profile%20Views&color=00ADB5&style=flat-square" alt="Profile Views" />
 
-- 🎓 2025 CSE Graduate from **Kongu Engineering College**
-- 👨‍💻 I enjoy building data-driven solutions and real-time applications
-- 🔍 Currently seeking a **full-time role** in **Software Development** or **Data Analysis**
-- 🌐 I work with:
-  - 🧠 **React.js**, **React Native**, **TypeScript**, **Tailwind CSS**
-  - 📊 **Python**, **Power BI**, **SQL**
-  - 🔧 **Spring Boot**, **WebSockets**, **MongoDB**
-  - 💻 **Adobe Illustrator**, **Spline**, **Excel**
-- 🏆 Built **VISION** – an award-winning IoT-based object detection system
-- 🚀 Published a research paper on **abusive text detection using BERT and RoBERTa**
+</div>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ _kanishk_._._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kanishk-p-185256287/])((https://www.linkedin.com/in/kanishk-p-185256287/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kanishkpalanisamy002@gmail.com) 
+### 👨‍💻 Engineering Profile
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kanishk-rezol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kanishk-rezol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-rezol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kanishk-rezol&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kanishk-rezol&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=kanishk-rezol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+title: Backend & AI Engineer
+location: Chennai, Tamil Nadu, India
+current_roles:
+  - Backend Engineer @ Stitch (Fintech)
+  - Application Developer & Cloud Engineer (Part-time) @ HAWC
+core_focus:
+  - Distributed Go & Python Microservices (Kratos, FastAPI)
+  - Real-Time Media & Low-Latency Streaming (LiveKit, WebRTC, WebSockets)
+  - Applied AI & LLM Systems (RAG, Ollama, Transformers, Guardrails)
+  - High-Volume Data Pipelines (PostgreSQL, ClickHouse, Redis)
+education: B.E. Computer Science, Kongu Engineering College
