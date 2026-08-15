@@ -16,32 +16,7 @@
 
 </div>
 
-<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230a192f&custom_color_2=%2300ADB5&height=220&section=header&text=KANISHK%20P&fontSize=48&fontColor=%23ffffff&animation=fadeIn" width="100%" />
-
-  <br />
-
-  <a href="https://linkedin.com/in/kanishk-p-185256287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>[cite: 1]
-  <a href="mailto:kanishkpalanisamy002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>[cite: 1]
-  <a href="https://kanishkpalanisamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" /></a>[cite: 1]
-
-</div>
-
-<br />
-
-Hi 👋, I am **Kanishk P**, a passionate **Backend & AI Engineer** specializing in distributed microservices, real-time media streaming, and intelligent LLM workflows. I build robust data pipelines and scalable systems[cite: 1].
-
-<details>
-<summary>▶ <b>More about me</b></summary>
-<br />
-
-- 💼 **Backend Engineer** at Stitch (Fintech) & **Application Developer** at HAWC[cite: 1]
-- 🎓 **B.E. Computer Science** graduate from Kongu Engineering College[cite: 1]
-- ⚡ **Core Focus**: Go, Python, FastAPI, Kratos, WebSockets, LiveKit, PostgreSQL, ClickHouse, RAG[cite: 1]
-- 🏆 **Accolades**: Best Project Award (IoT Accessibility System) & Published AI Researcher[cite: 1]
-
-</details>
 
 <br />
 
