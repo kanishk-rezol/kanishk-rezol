@@ -16,19 +16,122 @@
 
 </div>
 
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%230a192f&custom_color_2=%2300ADB5&height=220&section=header&text=KANISHK%20P&fontSize=48&fontColor=%23ffffff&animation=fadeIn" width="100%" />
+
+  <br />
+
+  <a href="https://linkedin.com/in/kanishk-p-185256287"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>[cite: 1]
+  <a href="mailto:kanishkpalanisamy002@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>[cite: 1]
+  <a href="https://kanishkpalanisamy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" /></a>[cite: 1]
+
+</div>
+
+<br />
+
+Hi 👋, I am **Kanishk P**, a passionate **Backend & AI Engineer** specializing in distributed microservices, real-time media streaming, and intelligent LLM workflows. I build robust data pipelines and scalable systems[cite: 1].
+
+<details>
+<summary>▶ <b>More about me</b></summary>
+<br />
+
+- 💼 **Backend Engineer** at Stitch (Fintech) & **Application Developer** at HAWC[cite: 1]
+- 🎓 **B.E. Computer Science** graduate from Kongu Engineering College[cite: 1]
+- ⚡ **Core Focus**: Go, Python, FastAPI, Kratos, WebSockets, LiveKit, PostgreSQL, ClickHouse, RAG[cite: 1]
+- 🏆 **Accolades**: Best Project Award (IoT Accessibility System) & Published AI Researcher[cite: 1]
+
+</details>
+
+<br />
+
+### 🔥 Github Stats
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=kanishk-rezol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <br /><br />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kanishk-rezol&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-rezol&layout=donut&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🗂️ Featured Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/kanishk-rezol">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk-rezol&repo=Auto-Job-Resume-Platform&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/kanishk-rezol">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishk-rezol&repo=PDF-RAG-Chatbot-with-Ollama&theme=tokyonight&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br />
+  <a href="https://github.com/kanishk-rezol?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_ALL_REPOSITORIES-00ADB5?style=for-the-badge&logoColor=white" height="32" />
+  </a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=kanishk-rezol&label=PROFILE%20VIEWS&color=00ADB5&style=for-the-badge" />
+</div>
+
+<br />
+
+### 🎮 Retro GameBoy Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/8.gif" height="110" alt="Pokemon" />
+        <br />
+        <b>WARTORTLE</b> | <code>No. 008</code><br />
+        <sub>HT: 3'03" | WT: 50.0 lb</sub><br />
+        <p><i>"Swimming fast, it moves its ears to maintain balance."</i></p>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <table>
+          <tr>
+            <td></td>
+            <td align="center"><b>⬆️</b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td align="center"><b>⬅️</b></td>
+            <td></td>
+            <td align="center"><b>➡️</b></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td align="center"><b>⬇️</b></td>
+            <td></td>
+          </tr>
+        </table>
+        <br />
+        <img src="https://img.shields.io/badge/B-222831?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/A-00ADB5?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
-### 👨‍💻 Engineering Profile
-
-```yaml
-title: Backend & AI Engineer
-location: Chennai, Tamil Nadu, India
-current_roles:
-  - Backend Engineer @ Stitch (Fintech)
-  - Application Developer & Cloud Engineer (Part-time) @ HAWC
-core_focus:
-  - Distributed Go & Python Microservices (Kratos, FastAPI)
-  - Real-Time Media & Low-Latency Streaming (LiveKit, WebRTC, WebSockets)
-  - Applied AI & LLM Systems (RAG, Ollama, Transformers, Guardrails)
-  - High-Volume Data Pipelines (PostgreSQL, ClickHouse, Redis)
-education: B.E. Computer Science, Kongu Engineering College
+<div align="center">
+  <a href="https://github.com/kanishk-rezol">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300ADB5&custom_color_2=%230a192f&height=100&section=footer" width="100%" />
+  </a>
+</div>
